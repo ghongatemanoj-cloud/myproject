@@ -1,2 +1,0 @@
-# myproject
-print("Hello, World!")
